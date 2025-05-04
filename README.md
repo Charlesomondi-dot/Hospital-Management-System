@@ -84,5 +84,5 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Linkdin](https://www.linkedin.com/in/ashishverma48/](https://www.linkedin.com/in/charles-omondi-541646245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Contact on Linkdin](https://www.linkedin.com/in/charles-omondi-541646245?)
 - [Contact on Email](okalc9939@gmail.com)
